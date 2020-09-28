@@ -1,2 +1,5 @@
 Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultanea en ellas.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5b7d6199db63c1d38efd303ce8cbe2bec3c44930

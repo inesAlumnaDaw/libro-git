@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git es un sistema de control de versiones ideado por Linus Torvalds.Git es un sistema de control de versiones ideado por Linus Torvalds.
+=======
+Git es un sistema de control de versiones ideado por Linus Torvalds.
+>>>>>>> 5b7d6199db63c1d38efd303ce8cbe2bec3c44930
